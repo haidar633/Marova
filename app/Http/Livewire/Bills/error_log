@@ -1,0 +1,12 @@
+[29-Mar-2025 05:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Bills/BillAdd.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Bills/BillAdd.php on line 13
+[29-Mar-2025 05:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Bills/BillEdit.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Bills/BillEdit.php on line 10
+[29-Mar-2025 05:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Bills/BillView.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Bills/BillView.php on line 11

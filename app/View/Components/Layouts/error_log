@@ -1,0 +1,8 @@
+[29-Mar-2025 05:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/View/Components/Layouts/App.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/View/Components/Layouts/App.php on line 7
+[29-Mar-2025 05:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/View/Components/Layouts/Base.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/View/Components/Layouts/Base.php on line 7

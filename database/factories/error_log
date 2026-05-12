@@ -1,0 +1,4 @@
+[29-Mar-2025 05:41:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/nccleban/public_html/cms.ncclebanon.com/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/database/factories/UserFactory.php on line 8

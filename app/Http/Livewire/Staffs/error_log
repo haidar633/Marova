@@ -1,0 +1,12 @@
+[29-Mar-2025 05:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Staffs/StaffAdd.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Staffs/StaffAdd.php on line 11
+[29-Mar-2025 05:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Staffs/StaffEdit.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Staffs/StaffEdit.php on line 11
+[29-Mar-2025 05:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Staffs/StaffView.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Staffs/StaffView.php on line 11

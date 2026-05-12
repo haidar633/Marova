@@ -1,0 +1,12 @@
+[29-Mar-2025 05:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Roles/RoleAdd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Roles/RoleAdd.php on line 12
+[29-Mar-2025 05:41:33 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Roles/RoleEdit.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Roles/RoleEdit.php on line 11
+[29-Mar-2025 05:41:33 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Roles/RoleView.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/Roles/RoleView.php on line 15

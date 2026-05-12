@@ -1,0 +1,4 @@
+[29-Mar-2025 05:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Controllers/Controller.php on line 10

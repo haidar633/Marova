@@ -1,0 +1,8 @@
+[29-Mar-2025 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/ExampleLaravel/UserManagement.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/ExampleLaravel/UserManagement.php on line 7
+[29-Mar-2025 05:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "Livewire\Component" not found in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/ExampleLaravel/UserProfile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nccleban/public_html/cms.ncclebanon.com/app/Http/Livewire/ExampleLaravel/UserProfile.php on line 8
