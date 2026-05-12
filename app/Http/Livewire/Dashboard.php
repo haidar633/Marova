@@ -12,7 +12,6 @@ class Dashboard extends Component
 {
     public function render()
     {
-        // 1. Monthly Attempts for Current Year (Line Chart)
         $currentYear = date('Y');
         $monthlyAttempts = Attempt::whereYear('attempt_date', $currentYear)
             ->selectRaw('MONTH(attempt_date) as month, COUNT(*) as count')
